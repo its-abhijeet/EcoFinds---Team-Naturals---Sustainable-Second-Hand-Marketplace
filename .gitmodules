@@ -1,3 +1,7 @@
 [submodule "projFrontend-EcoFinds"]
 	path = projFrontend-EcoFinds
 	url = https://github.com/its-abhijeet/projFrontend-EcoFinds.git
+[submodule "adminPortal---Ecofinds"]
+	path = adminPortal---Ecofinds
+	url = https://github.com/its-abhijeet/adminPortal---Ecofinds.git
+	branch = master
