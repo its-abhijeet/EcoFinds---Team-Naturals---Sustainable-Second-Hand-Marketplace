@@ -1,0 +1,3 @@
+[submodule "projFrontend-EcoFinds"]
+	path = projFrontend-EcoFinds
+	url = https://github.com/its-abhijeet/projFrontend-EcoFinds.git
