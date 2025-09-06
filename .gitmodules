@@ -5,3 +5,6 @@
 	path = adminPortal---Ecofinds
 	url = https://github.com/its-abhijeet/adminPortal---Ecofinds.git
 	branch = master
+[submodule "projbackend"]
+	path = projbackend
+	url = https://github.com/its-abhijeet/projbackend.git
